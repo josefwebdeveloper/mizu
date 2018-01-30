@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/inspectionProfiles/
+.idea/vcs.xml
+node_modules/popper.js/.tmp/
+src/css/
+src/fonts/
+src/img/
+src/js/
